@@ -1,0 +1,8 @@
+audio/
+venv/
+docs/
+features*.csv
+labels*.csv
+results*/
+__pycache__/
+.DS_Store
